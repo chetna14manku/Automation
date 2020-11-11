@@ -15,16 +15,3 @@ Gourav Gopal
 
 Dhruv Upadhyay
 
-Desciption Of Programs done by team member ::
-
-auto.py     :  Chetna
-
-basic.py    :  Chetna
-
-hadoopAuto.py:  Chetna
-
-partition.py :  Chetna
-
-dockerAuto.py :  Gourav Gopal
-
-webserverAuto.py: Gourav Gopal
